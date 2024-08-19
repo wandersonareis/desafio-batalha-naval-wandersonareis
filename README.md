@@ -2,7 +2,7 @@
 
 Bem-vindo ao desafio "Batalha Naval"! Este projeto desafiará suas habilidades de programação utilizando vetores e matrizes para simular um jogo de Batalha Naval, dividido em três níveis: Novato, Aventureiro e Mestre. Em cada nível, novas funcionalidades serão adicionadas, tornando o desafio progressivamente mais complexo.
 
-## 🎮 Nível Novato
+## 🏅 Nível Novato
 
 Neste nível inicial, você implementará a lógica básica de posicionamento de navios em um tabuleiro de Batalha Naval utilizando vetores bidimensionais.
 
@@ -19,7 +19,7 @@ Neste nível inicial, você implementará a lógica básica de posicionamento de
 
 ---
 
-## 🛡️ Nível Aventureiro
+## 🏅 Nível Aventureiro
 
 No nível Aventureiro, você expandirá o tabuleiro e adicionará mais navios, incluindo posicionamentos na diagonal.
 
@@ -35,7 +35,7 @@ No nível Aventureiro, você expandirá o tabuleiro e adicionará mais navios, i
 
 ---
 
-## 🏆 Nível Mestre
+## 🏅 Nível Mestre
 
 No nível Mestre, o desafio se intensifica com a implementação de habilidades especiais representadas por matrizes específicas no tabuleiro.
 
